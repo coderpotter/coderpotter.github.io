@@ -1,14 +1,12 @@
-# Animesh Nighojkar
+# About Me
 
-## About Me
+# Publications
 
-## Publications
+# Education
 
-## Education
+# Work Experience
 
-## Work Experience
+# Projects
 
-## Projects
-
-## Skills
+# Skills
 
