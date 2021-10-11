@@ -1,15 +1,12 @@
-Syntax highlighted code block
+# About Me
 
-# Header 1
-## Header 2
-### Header 3
+# Publications
 
-- Bulleted
-- List
+# Education
 
-1. Numbered
-2. List
+# Work Experience
 
-**Bold** and _Italic_ and `Code` text
+# Projects
 
-[Link](url) and ![Image](src)
+# Skills
+
